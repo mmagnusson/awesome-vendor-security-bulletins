@@ -1,6 +1,6 @@
 # awesome-vendor-security-bulletins
 
-Not organized by any type/category yet. 
+Not organized by any type/category yet.  Adding more as I find them.
 - List of security bulletins and advisories provided by technology vendors.
     - Adobe,https://helpx.adobe.com/security/security-bulletin.html
     - AMD,https://www.amd.com/en/resources/product-security.html#security
