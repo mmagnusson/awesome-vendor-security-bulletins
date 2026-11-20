@@ -39,6 +39,7 @@ Not organized by any type/category yet.  Adding more as I find them.
     - IBM,https://www.ibm.com/support/pages/bulletin/
     - Imagination,https://www.imaginationtech.com/gpu-driver-vulnerabilities/#jan25
     - Intel,https://www.intel.com/content/www/us/en/security-center/default.html
+    - Johnson Controls,https://www.johnsoncontrols.com/trust-center/cybersecurity/security-advisories
     - Juniper,https://supportportal.juniper.net/s/global-search/%40uri#sort=date%20descending&f:ctype=[Security%20Advisories]
     - Lenovo,https://support.lenovo.com/us/en/product_security/ps500001-lenovo-product-security-advisories
     - Linux-Alma,https://errata.almalinux.org/
